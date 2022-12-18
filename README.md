@@ -14,7 +14,7 @@
 
 <hr>
 
-### 🚧 Tudo o que um sonho precisa para ser realizado é alguém que acredite que ele posso ser realizado.🚧
+### 🚧 Tudo o que um sonho precisa para ser realizado é alguém que acredite que ele possa ser realizado.🚧
 
 🔭 I’m currently working on Brajan Sistemas
 
