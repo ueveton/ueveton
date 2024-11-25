@@ -18,7 +18,7 @@
 
 🔭 I’m currently working on Brajan Sistemas
 
-🌱 I’m currently learning JS, NodeJS, MySQL, Sequelize
+🌱 I’m currently learning JS, ReactJs, NodeJS, MySQL, Sequelize
 
 📫 How to reach me uevetonsp89@gmail.com
 
